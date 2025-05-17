@@ -1,0 +1,27 @@
+{
+  "scene_id": "034",
+  "title": "Ann Returns to Stockholm",
+  "location": "Ann's apartment",
+  "time": "2033-10-14T18:32+02:00",
+  "tags": [
+    "character_reunion",
+    "post-China"
+  ],
+  "characters_present": [
+    "Ann Charlotte",
+    "Mary"
+  ],
+  "summary": "Ann returns after her China trip to find Mary has turned the apartment into chaos.",
+  "dialogue": [
+    {
+      "speaker": "Mary",
+      "line": "Surprise! You\u2019re not hallucinating, that\u2019s a fireman\u2019s pole.",
+      "tone": "playful"
+    },
+    {
+      "speaker": "Ann",
+      "line": "Mary, is that\u2026 did you actually put a hole in the floor?",
+      "tone": "curious"
+    }
+  ]
+}

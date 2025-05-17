@@ -1,0 +1,27 @@
+{
+  "name": "Ann Charlotte",
+  "static_attributes": {
+    "birthdate": "1994-03-12",
+    "height_cm": 172,
+    "eye_color": "hazel",
+    "nationality": "Swedish"
+  },
+  "dynamic_attributes": [
+    {
+      "time": "before China trip",
+      "personality": {
+        "confidence": "quiet",
+        "openness": "moderate",
+        "curiosity": "latent"
+      }
+    },
+    {
+      "time": "after China trip",
+      "personality": {
+        "confidence": "growing",
+        "openness": "high",
+        "curiosity": "expressive"
+      }
+    }
+  ]
+}

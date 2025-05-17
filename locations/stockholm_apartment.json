@@ -1,0 +1,25 @@
+{
+  "name": "Ann's Apartment",
+  "location": "Stockholm, Sweden",
+  "static_attributes": {
+    "size_sqm": 85,
+    "floors": 2
+  },
+  "dynamic_attributes": [
+    {
+      "time": "before Mary",
+      "interior": [
+        "minimalist",
+        "neutral tones"
+      ]
+    },
+    {
+      "time": "after Mary",
+      "interior": [
+        "fireman's pole",
+        "eclectic art",
+        "floor hole"
+      ]
+    }
+  ]
+}

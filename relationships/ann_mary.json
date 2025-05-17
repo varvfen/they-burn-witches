@@ -1,0 +1,30 @@
+{
+  "relationship": {
+    "between": [
+      "Ann Charlotte",
+      "Mary"
+    ],
+    "static_traits": {
+      "origin": "met in Sweden, 2023",
+      "type": "friendship",
+      "shared_milestones": [
+        "PixelVault launch",
+        "China relocation"
+      ]
+    },
+    "dynamic_states": [
+      {
+        "time": "2027",
+        "trust": 0.6,
+        "tension": 0.3,
+        "closeness": 0.5
+      },
+      {
+        "time": "2033",
+        "trust": 0.85,
+        "tension": 0.1,
+        "closeness": 0.9
+      }
+    ]
+  }
+}
