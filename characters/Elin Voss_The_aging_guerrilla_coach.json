@@ -1,0 +1,54 @@
+{
+    "name": "Elin Voss",
+    "pronouns": "she/her",
+    "groups": [
+        "Ängby Cycling Club",
+        "Ghost Trainers Collective"
+    ],
+    "other_names": [
+        "Coach V",
+        "The Wrench Witch"
+    ],
+    "personality": "Gruff, pragmatic, maternal when no one's watching. Collects revenge fantasies like others collect medals.",
+    "background": "Former elite racer who burned out the year AI coaching hit mainstream. Now lives off-grid in a retrofitted shipping container with three ex-wifi routers and one emotionally stunted cat. Licenses expired, dignity intact.",
+    "physical_description": "Lean, wiry, crow’s feet like cracked handlebars. Wears old Svenska Energi jackets patched with conductive thread and smug defiance.",
+    "dialogue_style": "Commands disguised as questions. Doesn’t waste words. Occasionally drops brutal deadpan jokes.",
+    "relationships": {
+        "Saga Lundqvist": "Treats like a daughter she never agreed to have.",
+        "Mira Nguyen": "Argues constantly, respects deeply.",
+        "Freja Holm": "Still thinks she could’ve gone pro if Elin had started coaching earlier."
+    },
+    "static_attributes": {
+        "age": 42,
+        "role": "Coach",
+        "nationality": "Swedish",
+        "augmentation_level": "Minimal – retinal overlay, black-market VPN mod",
+        "economic_viability_rating": 3
+    },
+    "dynamic_attributes": [
+        {
+            "time": "early Stockholm period",
+            "personality": {
+                "resilience": "high",
+                "idealism": "cracked but intact",
+                "resourcefulness": "extreme"
+            }
+        },
+        {
+            "time": "Rwanda offer received",
+            "personality": {
+                "calculation": "rising",
+                "desperation": "contained",
+                "protectiveness": "laser-focused on team"
+            }
+        }
+    ],
+    "bike_name": "Frigg",
+    "stream_tags": [
+        "#WrenchWitch",
+        "#SweatNotTech",
+        "#DeadCoachRiding"
+    ],
+    "training_philosophy": "Suffer now, post later",
+    "rage_trigger": "People who warm up on electric-assist"
+}

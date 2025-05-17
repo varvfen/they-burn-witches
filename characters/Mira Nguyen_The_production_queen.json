@@ -1,0 +1,46 @@
+{
+  "name": "Mira Nguyen",
+  "pronouns": "they/she",
+  "groups": ["Ängby Cycling Club", "Rogue Editors Union"],
+  "other_names": ["Drone Daddy", "The Frame Witch"],
+  "personality": "Hyper-efficient, emotionally evasive, chaos-coordinated. Most likely to survive a robot uprising by befriending the robots.",
+  "background": "Dropped out of film school to run freelance ops for viral cycling streams. Now carries the team’s finances, optics, and last shreds of digital legitimacy on their back.",
+  "physical_description": "Dyed buzzcut. Always cold. Always layered. Wears gloves even indoors. Has a spine made of caffeine and spreadsheet macros.",
+  "dialogue_style": "Crisp, clipped, full of abbreviations and sudden orders. Once said ‘I love you’ through a shared Google Calendar event.",
+  "relationships": {
+    "Elin Voss": "Admires. Argues with. Secretly logs her rants as podcast material.",
+    "Saga Lundqvist": "Protects like a little sister. Will deny it until death.",
+    "Freja Holm": "Running bet on who can sabotage a sponsor pitch faster."
+  },
+  "static_attributes": {
+    "age": 24,
+    "role": "Tech + Livestream Ops",
+    "nationality": "Swedish-Vietnamese",
+    "augmentation_level": "High – eye-to-cloud video relay, voice mod, encrypted banking overlays",
+    "economic_viability_rating": 5
+  },
+  "dynamic_attributes": [
+    {
+      "time": "Stockholm winter",
+      "personality": {
+        "burnout": "accelerating",
+        "control": "surgical",
+        "hope": "algorithmic"
+      }
+    },
+    {
+      "time": "Rwanda message received",
+      "personality": {
+        "curiosity": "peaking",
+        "trust": "suspended",
+        "adrenaline_addiction": "undeniable"
+      }
+    }
+  ],
+  "bike_name": "Footage Goblin",
+  "stream_tags": ["#DroneDaddy", "#LivestreamOrDie", "#SponsorMePlease"],
+  "favorite_nutrient_paste_flavor": "Red bean + static electricity",
+  "training_philosophy": "Every crash is good content",
+  "rage_trigger": "Low-res thumbnails"
+}
+
