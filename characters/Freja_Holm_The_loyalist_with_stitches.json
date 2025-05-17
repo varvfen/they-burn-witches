@@ -1,8 +1,14 @@
 {
   "name": "Freja Holm",
   "pronouns": "she/her",
-  "groups": ["Ängby Cycling Club", "Ex-Pro Sponsorship Survivors"],
-  "other_names": ["Frejzilla", "The Uphill Undertaker"],
+  "groups": [
+    "Ängby Cycling Club",
+    "Ex-Pro Sponsorship Survivors"
+  ],
+  "other_names": [
+    "Frejzilla",
+    "The Uphill Undertaker"
+  ],
   "personality": "Hardcore loyalist with a dry sense of humor and a terrifying lactate threshold. Thinks in gradients, speaks in sarcastic haikus.",
   "background": "Once a rising star with a Svenska Energi contract. Dropped after calling their AI coach 'an emotionally distant microwave with legs.' Now sews her own gear, trains in secret, and livestreams every failure like a badge of honor.",
   "physical_description": "Broad shoulders, old race scars, and the kind of thighs that terrify carbon fiber. Always wearing hand-stitched jerseys with conductive thread. Nose slightly crooked from a gravel sprint crash in '31.",
@@ -13,7 +19,7 @@
     "Mira Nguyen": "Frenemies with layered memes. Competes for best roast during sponsor meetings."
   },
   "static_attributes": {
-    "age": 27,
+    "age": 28,
     "role": "Climber / Former Sponsored Pro",
     "nationality": "Swedish",
     "augmentation_level": "Low – only legal recovery nanobot infusion, occasional spinal stim patches",
@@ -38,7 +44,11 @@
     }
   ],
   "bike_name": "Snorri",
-  "stream_tags": ["#ClimbOrCrumble", "#Frejzilla", "#ExProReborn"],
+  "stream_tags": [
+    "#ClimbOrCrumble",
+    "#Frejzilla",
+    "#ExProReborn"
+  ],
   "favorite_nutrient_paste_flavor": "Wasabi-honey oatmeal",
   "training_philosophy": "Burn the fear, then stretch",
   "rage_trigger": "Being called 'influencer' by anyone wearing loafers"
