@@ -1,0 +1,45 @@
+{
+  "name": "Lindström",
+  "pronouns": "he/him",
+  "groups": ["Twitch Economists (exiled)", "Post-Market Cryptohumans", "Kivu Data Outpost"],
+  "other_names": ["The Ghost Economist", "CycloNomad", "L."],
+  "personality": "Sharp as a carbon blade, elusive as latency. Speaks in provocations and probabilistic metaphors. His kindness comes with latency, but it arrives.",
+  "background": "Once a Swedish economist with a cult Twitch following. Known for livestreamed breakdowns of economic collapse, neural incentives, and open-source barter networks. Blacklisted after leaking internal market simulations. Now lives somewhere near Lake Kivu—alone, off-grid, and not entirely offline.",
+  "physical_description": "Unconfirmed. Some say he’s gaunt and cybernetically pale, others say he looks like a bearded botanist from 1975. His only known selfie is a thermal blur inside a Kigali drone depot.",
+  "dialogue_style": "Cryptic, almost poetic. Alternates between elegant academia and clipped hacker patois. Often answers questions with questions—or a file transfer.",
+  "relationships": {
+    "Elin Voss": "An early subscriber. Possibly the only one who ever sent feedback on his Barter 3.0 whitepaper.",
+    "Saga Lundqvist": "Refers to her in private logs as 'high-entropy fire type. Possible instability = potential.'",
+    "Mira Nguyen": "Collaborated once on a failed economic horror podcast. She never talks about it."
+  },
+  "static_attributes": {
+    "age": "Unknown. Likely 40s–50s.",
+    "role": "Data patron / rogue economist",
+    "nationality": "Swedish",
+    "augmentation_level": "Unknown – rumored to have self-coded adaptive retinal projectors and immune-synced filtration nodes",
+    "economic_viability_rating": "Unmeasurable – exists outside formal market definitions"
+  },
+  "dynamic_attributes": [
+    {
+      "time": "Twitch peak (2029–2031)",
+      "personality": {
+        "charisma": "viral",
+        "cynicism": "coated in humor",
+        "idealism": "painfully intact"
+      }
+    },
+    {
+      "time": "Kivu transmissions begin (2033)",
+      "personality": {
+        "trust": "fragmented",
+        "risk_appetite": "infinite for ideas, zero for fame",
+        "hope": "channeled into others"
+      }
+    }
+  ],
+  "bike_name": "N/A – prefers drones, walking, or repurposed carts",
+  "stream_tags": ["#PostCapital", "#Barter3", "#InvisibleSponsor"],
+  "favorite_nutrient_paste_flavor": "Non-applicable – uses mushroom broth + nootropic gum",
+  "training_philosophy": "Outlast the system. Then rebuild from its ruins.",
+  "rage_trigger": "Being asked to 'optimize his funnel'"
+}
