@@ -1,12 +1,11 @@
-# They Burn Witches ï¿½ Storyworld Repository
+# They Burn Witches – Storyworld Repository
 
-This is a collaborative, JSON-driven story structure for the speculative fiction series by Gunnar Sandstrï¿½m.
+This is a collaborative, JSON-driven story structure for the speculative fiction series by Gunnar Sandström.
 
-- `characters/` ï¿½ Profiles with static and dynamic attributes
-- `scenes/` ï¿½ Dialogue + setting snapshots
-- `locations/` ï¿½ Geopolitical, digital or physical places
-- `relationships/` ï¿½ Connections and tensions between people
-- `arcs/` ï¿½ Storylines that span multiple scenes
-- `items/` ï¿½ AI tools, symbolic objects, tech artifacts
-- `metadata/` ï¿½ Versioning, contributors, logs
-dfddawdaa
+- `characters/` – Profiles with static and dynamic attributes
+- `scenes/` – Dialogue + setting snapshots
+- `locations/` – Geopolitical, digital or physical places
+- `relationships/` – Connections and tensions between people
+- `arcs/` – Storylines that span multiple scenes
+- `items/` – AI tools, symbolic objects, tech artifacts
+- `metadata/` – Versioning, contributors, logs
