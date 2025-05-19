@@ -1,0 +1,155 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Character Schema",
+  "description": "Schema for character profiles in the 'They Burn Witches' storyworld",
+  "type": "object",
+  "required": ["name", "pronouns", "personality", "background", "physical_description", "dialogue_style", "relationships", "static_attributes"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The character's full name"
+    },
+    "pronouns": {
+      "type": "string",
+      "description": "Character's pronouns (e.g., she/her, he/him, they/them)"
+    },
+    "groups": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Organizations, collectives, or communities the character belongs to"
+    },
+    "other_names": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Nicknames, aliases, or titles the character is known by"
+    },
+    "personality": {
+      "type": "string",
+      "description": "Concise description of character's core personality traits and essence"
+    },
+    "background": {
+      "type": "string",
+      "description": "Character's history, origin story, and formative experiences"
+    },
+    "physical_description": {
+      "type": "string",
+      "description": "Visual appearance, distinctive features, clothing style"
+    },
+    "dialogue_style": {
+      "type": "string",
+      "description": "How the character speaks, verbal patterns, communication style"
+    },
+    "relationships": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "description": "Description of relationship with another character"
+      },
+      "description": "Key relationships with other characters"
+    },
+    "static_attributes": {
+      "type": "object",
+      "required": ["birthdate", "role", "nationality", "augmentation_level", "economic_viability_rating"],
+      "properties": {
+        "birthdate": {
+          "type": "string",
+          "format": "date",
+          "description": "Character's date of birth (YYYY-MM-DD)"
+        },
+        "role": {
+          "type": "string",
+          "description": "Character's primary function, job, or position"
+        },
+        "nationality": {
+          "type": "string",
+          "description": "Character's national or cultural identity"
+        },
+        "augmentation_level": {
+          "type": "string",
+          "description": "Extent and type of technological augmentations"
+        },
+        "economic_viability_rating": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 10,
+          "description": "Rating of economic stability on a scale of 0-10"
+        }
+      },
+      "description": "Fixed attributes that remain constant"
+    },
+    "dynamic_attributes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["time", "personality"],
+        "properties": {
+          "time": {
+            "type": "string",
+            "description": "Time period or story phase"
+          },
+          "personality": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "string",
+              "description": "Specific personality trait and its state during this time period"
+            },
+            "description": "How personality traits evolve during this time period"
+          }
+        }
+      },
+      "description": "Evolving attributes that change over time or in different contexts"
+    },
+    "bike_name": {
+      "type": "string",
+      "description": "Name of character's bicycle or transportation mode"
+    },
+    "stream_tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Social media or stream hashtags associated with character"
+    },
+    "favorite_nutrient_paste_flavor": {
+      "type": "string",
+      "description": "Preferred food or nutrient paste flavor"
+    },
+    "training_philosophy": {
+      "type": "string",
+      "description": "Character's approach or mantra regarding training or skill development"
+    },
+    "rage_trigger": {
+      "type": "string",
+      "description": "What specifically angers or frustrates the character"
+    },
+    "signature_traits": {
+      "type": "object",
+      "properties": {
+        "habits": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Regular behaviors or routines"
+        },
+        "speech_patterns": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Distinctive ways of speaking"
+        },
+        "physical_tics": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Unconscious movements or gestures"
+        },
+        "rituals": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Meaningful repeated behaviors"
+        },
+        "objects": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Significant items the character possesses or uses"
+        }
+      },
+      "description": "Collection of distinctive traits that make the character unique"
+    }
+  }
+}

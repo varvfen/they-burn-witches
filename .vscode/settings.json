@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["**/characters/*.json"],
+      "url": "./schemas/character-schema.json"
+    }
+  ]
+}
