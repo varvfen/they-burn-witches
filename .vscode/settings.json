@@ -2,7 +2,7 @@
   "json.schemas": [
     {
       "fileMatch": ["**/characters/*.json"],
-      "url": "c:/Users/sands/they-burn-witches/schemas/character-schema.json"
+      "url": "file:///c:/Users/sands/they-burn-witches/schemas/character-schema.json"
     }
   ]
 }
