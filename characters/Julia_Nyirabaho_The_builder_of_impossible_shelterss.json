@@ -1,0 +1,57 @@
+{
+  "name": "Julia Nyirabaho",
+  "pronouns": "she/her",
+  "groups": [
+    "Lake Kivu Defense Collective",
+    "Mycelium Guild",
+    "Former National Judo Squad"
+  ],
+  "other_names": [
+    "The Shelter Witch",
+    "Mama J",
+    "That Girl with the Hammer"
+  ],
+  "personality": "Unshakable, dry-witted, fiercely kind. Keeps people alive by making them useful. Doesn’t believe in miracles—just in materials and muscle memory.",
+  "background": "Born in Gisenyi. Grew up learning woodcraft from her grandfather and martial arts from a quietly grieving mother. Represented Rwanda in judo until injury ended her career. Now leads decentralized shelter-building projects for climate refugees, aided by a semi-sentient construction AI and a rotating crew of MMA boys, hackers, and orphans.",
+  "physical_description": "Compact and powerful. Calloused hands, shaved head, eyes like she’s always about to offer you either soup or a sparring match. Wears patched vests, steel-toed boots, and a prayer bracelet from her aunt.",
+  "dialogue_style": "Direct. Often silent mid-sentence while she demonstrates what she means. Swears softly in three languages when stressed, but never at people.",
+  "relationships": {
+    "Ann Charlotte": "Initially skeptical. Grew to respect her after watching her try to change a water filter with bleeding hands.",
+    "Maya Chen": "Longtime friend and trade partner. They once built an entire stormproof dormitory over a weekend while arguing about classical music.",
+    "The MMA boys": "Her found brothers and human forklifts. She feeds them. They lift the world for her."
+  },
+  "static_attributes": {
+    "birthdate": "2004-11-22",
+    "role": "Shelter Architect / Regional Coordinator",
+    "nationality": "Rwandan",
+    "augmentation_level": "Minimal – diagnostic retinal overlay, strength-monitoring neural band",
+    "economic_viability_rating": 7
+  },
+  "dynamic_attributes": [
+    {
+      "time": "Before refugee surge",
+      "personality": {
+        "confidence": "balanced",
+        "hope": "measured",
+        "focus": "precision over speed"
+      }
+    },
+    {
+      "time": "After the Mycelium Quest begins",
+      "personality": {
+        "leadership": "elevated",
+        "compassion": "active, demanding",
+        "doubt": "redirected into planning"
+      }
+    }
+  ],
+  "bike_name": "She prefers walking. Carries her own tools.",
+  "stream_tags": [
+    "#HammerDoctrine",
+    "#MyceliumBuilt",
+    "#FightThenFeed"
+  ],
+  "favorite_nutrient_paste_flavor": "She doesn’t eat paste. She cooks.",
+  "training_philosophy": "Build with intention. Fight with breath. Never panic in the mud.",
+  "rage_trigger": "Outsiders who ask for help without lifting anything"
+}

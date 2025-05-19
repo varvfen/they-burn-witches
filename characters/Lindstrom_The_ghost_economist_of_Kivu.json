@@ -1,8 +1,16 @@
 {
   "name": "Lindström",
   "pronouns": "he/him",
-  "groups": ["Twitch Economists (exiled)", "Post-Market Cryptohumans", "Kivu Data Outpost"],
-  "other_names": ["The Ghost Economist", "CycloNomad", "L."],
+  "groups": [
+    "Twitch Economists (exiled)",
+    "Post-Market Cryptohumans",
+    "Kivu Data Outpost"
+  ],
+  "other_names": [
+    "The Ghost Economist",
+    "CycloNomad",
+    "L."
+  ],
   "personality": "Sharp as a carbon blade, elusive as latency. Speaks in provocations and probabilistic metaphors. His kindness comes with latency, but it arrives.",
   "background": "Once a Swedish economist with a cult Twitch following. Known for livestreamed breakdowns of economic collapse, neural incentives, and open-source barter networks. Blacklisted after leaking internal market simulations. Now lives somewhere near Lake Kivu—alone, off-grid, and not entirely offline.",
   "physical_description": "Unconfirmed. Some say he’s gaunt and cybernetically pale, others say he looks like a bearded botanist from 1975. His only known selfie is a thermal blur inside a Kigali drone depot.",
@@ -13,7 +21,7 @@
     "Mira Nguyen": "Collaborated once on a failed economic horror podcast. She never talks about it."
   },
   "static_attributes": {
-    "age": "Unknown. Likely 40s–50s.",
+    "birthdate": "1987-09-23",
     "role": "Data patron / rogue economist",
     "nationality": "Swedish",
     "augmentation_level": "Unknown – rumored to have self-coded adaptive retinal projectors and immune-synced filtration nodes",
@@ -38,7 +46,11 @@
     }
   ],
   "bike_name": "N/A – prefers drones, walking, or repurposed carts",
-  "stream_tags": ["#PostCapital", "#Barter3", "#InvisibleSponsor"],
+  "stream_tags": [
+    "#PostCapital",
+    "#Barter3",
+    "#InvisibleSponsor"
+  ],
   "favorite_nutrient_paste_flavor": "Non-applicable – uses mushroom broth + nootropic gum",
   "training_philosophy": "Outlast the system. Then rebuild from its ruins.",
   "rage_trigger": "Being asked to 'optimize his funnel'"

@@ -1,8 +1,14 @@
 {
   "name": "Saga Lundqvist",
   "pronouns": "she/her",
-  "groups": ["Ängby Cycling Club", "Debt-Slaves Anonymous"],
-  "other_names": ["NasalCamSaga", "The Wolf-Bidon Girl"],
+  "groups": [
+    "Ängby Cycling Club",
+    "Debt-Slaves Anonymous"
+  ],
+  "other_names": [
+    "NasalCamSaga",
+    "The Wolf-Bidon Girl"
+  ],
   "personality": "Reckless, loyal, sarcastic. Runs on caffeine and unresolved parental trauma.",
   "background": "Once a junior national hopeful. Now juggling Twitch fame, ride-or-die debt, and a mom on a failing neural implant. Selling blood plasma and dignity to fund dreams.",
   "physical_description": "Short, jagged haircut. Scar on left cheek from an actual wolf. Always bruised, always laughing too loud.",
@@ -13,7 +19,7 @@
     "Mira Nguyen": "Teases constantly. Secretly terrified of letting her down."
   },
   "static_attributes": {
-    "age": 19,
+    "birthdate": "2015-08-29",
     "role": "All-terrain racer",
     "nationality": "Swedish-Vietnamese",
     "augmentation_level": "Moderate – neural shifter implant (stuck in 3rd gear)",
@@ -38,7 +44,11 @@
     }
   ],
   "bike_name": "Grim",
-  "stream_tags": ["#RideOrBleed", "#WolfProof", "#DebtTrapDiva"],
+  "stream_tags": [
+    "#RideOrBleed",
+    "#WolfProof",
+    "#DebtTrapDiva"
+  ],
   "favorite_nutrient_paste_flavor": "Salted licorice + regret",
   "training_philosophy": "If you’re not bleeding, you’re wasting time",
   "rage_trigger": "AI-generated pep talks"
