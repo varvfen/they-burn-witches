@@ -1,4 +1,5 @@
 {
+ 
   "name": "Elin Voss",
   "pronouns": "she/her",
   "groups": [
@@ -9,14 +10,14 @@
     "Coach V",
     "The Wrench Witch"
   ],
-  "personality": "Gruff, pragmatic, maternal when no one’s watching. Collects revenge fantasies like others collect medals.",
+  "personality": "Gruff, pragmatic, maternal when no one's watching. Collects revenge fantasies like others collect medals.",
   "background": "Former elite racer who burned out the year AI coaching hit mainstream. Now lives off-grid in a retrofitted shipping container with three ex-wives' tools.",
-  "physical_description": "Lean, wiry, crow’s feet like cracked handlebars. Wears old Svenska Energi jackets patched with conductive thread and smug defiance.",
-  "dialogue_style": "Commands disguised as questions. Doesn’t waste words. Occasionally drops brutal deadpan jokes.",
+  "physical_description": "Lean, wiry, crow's feet like cracked handlebars. Wears old Svenska Energi jackets patched with conductive thread and smug defiance.",
+  "dialogue_style": "Commands disguised as questions. Doesn't waste words. Occasionally drops brutal deadpan jokes.",
   "relationships": {
     "Saga Lundqvist": "Treats like a daughter she never agreed to have.",
     "Mira Nguyen": "Argues constantly, respects deeply.",
-    "Freja Holm": "Still thinks she could’ve gone pro if Elin had started coaching earlier."
+    "Freja Holm": "Still thinks she could've gone pro if Elin had started coaching earlier."
   },
   "static_attributes": {
     "birthdate": "1983-03-03",
@@ -54,10 +55,10 @@
   "signature_traits": {
     "habits": [
       "Double-checks gear teeth by fingertip",
-      "Talks to her bike like it’s a stubborn child"
+      "Talks to her bike like it's a stubborn child"
     ],
     "speech_patterns": [
-      "Commands that sound like questions: 'You’re riding that tire pressure?'",
+      "Commands that sound like questions: 'You're riding that tire pressure?'",
       "Delivers dry insults without changing tone"
     ],
     "physical_tics": [
