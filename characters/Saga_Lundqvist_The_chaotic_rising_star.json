@@ -3,53 +3,75 @@
   "pronouns": "she/her",
   "groups": [
     "Ängby Cycling Club",
-    "Debt-Slaves Anonymous"
+    "Ghost Trainers Collective"
   ],
   "other_names": [
-    "NasalCamSaga",
-    "The Wolf-Bidon Girl"
+    "RogueCam",
+    "The Algorithm's Favorite Mistake"
   ],
-  "personality": "Reckless, loyal, sarcastic. Runs on caffeine and unresolved parental trauma.",
-  "background": "Once a junior national hopeful. Now juggling Twitch fame, ride-or-die debt, and a mom on a failing neural implant. Selling blood plasma and dignity to fund dreams.",
-  "physical_description": "Short, jagged haircut. Scar on left cheek from an actual wolf. Always bruised, always laughing too loud.",
-  "dialogue_style": "Every sentence sounds like she’s daring you to disagree. Swears with Olympic precision.",
+  "personality": "Impulsive, reckless, brilliant in flashes. Half wild-eyed genius, half walking disaster. Addicted to the reaction loop.",
+  "background": "The youngest on the team and its accidental star. Joined as a joke, stayed for the chaos. Streams everything, crashes often.",
+  "physical_description": "Freckled, cracked visor, dyed hair that changes monthly. Always bandaged somewhere. Helmet cam is patched with holographic tape.",
+  "dialogue_style": "Unfiltered. Swears creatively. Half her lines are shouted, the other half whispered to her chat.",
   "relationships": {
-    "Elin Voss": "Mother figure she doesn't want to disappoint, ever.",
-    "Freja Holm": "Frenemies. Fight like sisters. Protect each other like wolves.",
-    "Mira Nguyen": "Teases constantly. Secretly terrified of letting her down."
+    "Elin Voss": "Terrified of disappointing her. Calls her 'Coach Deathwish' when frustrated.",
+    "Freja Holm": "Big sister chaos amplifier. They argue like thunderclouds.",
+    "Mira Nguyen": "Respect with a side of 'please fix my drone again.'"
   },
   "static_attributes": {
-    "birthdate": "2015-08-29",
-    "role": "All-terrain racer",
-    "nationality": "Swedish-Vietnamese",
-    "augmentation_level": "Moderate – neural shifter implant (stuck in 3rd gear)",
-    "economic_viability_rating": 1
+    "birthdate": "2010-07-30",
+    "role": "All-terrain troublemaker",
+    "nationality": "Swedish",
+    "augmentation_level": "Low – scraped-together neural shifter, illegal reflex patch",
+    "economic_viability_rating": 4
   },
   "dynamic_attributes": [
     {
-      "time": "before the offer",
+      "time": "Stockholm rise",
       "personality": {
-        "optimism": "low",
-        "determination": "dangerously high",
-        "humor": "unhinged"
+        "impulse": "explosive",
+        "attention": "fragmented but brilliant",
+        "humor": "weaponized"
       }
     },
     {
-      "time": "after Lindström's message",
+      "time": "pre-departure Rwanda",
       "personality": {
-        "cynicism": "hiding hope",
-        "risk_tolerance": "maximum",
-        "team_loyalty": "irrationally high"
+        "doubt": "creeping",
+        "loyalty": "surging",
+        "drive": "untethered and raw"
       }
     }
   ],
-  "bike_name": "Grim",
+  "bike_name": "Crashie",
   "stream_tags": [
-    "#RideOrBleed",
-    "#WolfProof",
-    "#DebtTrapDiva"
+    "#RogueCam",
+    "#NoBrakesJustVibes",
+    "#CrankGoblins"
   ],
-  "favorite_nutrient_paste_flavor": "Salted licorice + regret",
-  "training_philosophy": "If you’re not bleeding, you’re wasting time",
-  "rage_trigger": "AI-generated pep talks"
+  "favorite_nutrient_paste_flavor": "Cherry-tobacco-popcorn",
+  "training_philosophy": "Ride like you stole it, stream like it’s your confession",
+  "rage_trigger": "Being told to slow down",
+  "signature_traits": {
+    "habits": [
+      "Kicks her front tire before every ride like a dare",
+      "Talks to her livestream chat mid-sentence"
+    ],
+    "speech_patterns": [
+      "Swears in Swedish-English mashups",
+      "Quotes her subscriber comments like scripture"
+    ],
+    "physical_tics": [
+      "Cracks her knuckles one at a time while thinking",
+      "Tugs her cracked visor into place without noticing"
+    ],
+    "rituals": [
+      "Starts streams with a war cry or animal sound",
+      "Plays her ride playlist backward after a crash"
+    ],
+    "objects": [
+      "A duct-taped action cam she refuses to upgrade",
+      "Glow-in-the-dark bandana from her first ride"
+    ]
+  }
 }

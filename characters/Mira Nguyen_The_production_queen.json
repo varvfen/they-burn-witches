@@ -1,55 +1,77 @@
 {
   "name": "Mira Nguyen",
-  "pronouns": "they/she",
+  "pronouns": "she/her",
   "groups": [
     "Ängby Cycling Club",
-    "Rogue Editors Union"
+    "Ghost Trainers Collective"
   ],
   "other_names": [
-    "Drone Daddy",
-    "The Frame Witch"
+    "QR Queen",
+    "Rig Witch"
   ],
-  "personality": "Hyper-efficient, emotionally evasive, chaos-coordinated. Most likely to survive a robot uprising by befriending the robots.",
-  "background": "Dropped out of film school to run freelance ops for viral cycling streams. Now carries the team’s finances, optics, and last shreds of digital legitimacy on their back.",
-  "physical_description": "Dyed buzzcut. Always cold. Always layered. Wears gloves even indoors. Has a spine made of caffeine and spreadsheet macros.",
-  "dialogue_style": "Crisp, clipped, full of abbreviations and sudden orders. Once said ‘I love you’ through a shared Google Calendar event.",
+  "personality": "Logistics-focused realist with a caffeine dependency and a dry wit sharp enough to slice drone wings mid-flight. Runs five overlays at once and still hears you sigh.",
+  "background": "Media rig tech turned tactical producer. Once did recon streams in Croatia for independent aid orgs. Burned out, bought a bike, stayed weird.",
+  "physical_description": "Short, spring-loaded. Always wearing cable-wrapped gloves and polarized smart lenses. Patchy tech tattoos. Eyeliner like firmware update warnings.",
+  "dialogue_style": "Rapid-fire clarity. Prefers commands to questions. Injects sarcasm like it’s caffeine.",
   "relationships": {
-    "Elin Voss": "Admires. Argues with. Secretly logs her rants as podcast material.",
-    "Saga Lundqvist": "Protects like a little sister. Will deny it until death.",
-    "Freja Holm": "Running bet on who can sabotage a sponsor pitch faster."
+    "Freja Holm": "Frenemy, joke duelist, co-conspirator in most illegal repairs.",
+    "Saga Lundqvist": "Protective like a sister’s older ex.",
+    "Elin Voss": "Tense respect. Thinks of her as the anchor that shouldn't float."
   },
   "static_attributes": {
-    "birthdate": "2010-06-12",
-    "role": "Tech + Livestream Ops",
-    "nationality": "Swedish-Vietnamese",
-    "augmentation_level": "High – eye-to-cloud video relay, voice mod, encrypted banking overlays",
+    "birthdate": "2005-08-19",
+    "role": "Tactical Stream Engineer",
+    "nationality": "Vietnamese-Swedish",
+    "augmentation_level": "Moderate – visual overlay stack, tactile nerve sheath",
     "economic_viability_rating": 5
   },
   "dynamic_attributes": [
     {
-      "time": "Stockholm winter",
+      "time": "Swedish winter sprint era",
       "personality": {
-        "burnout": "accelerating",
-        "control": "surgical",
-        "hope": "algorithmic"
+        "focus": "needle-sharp",
+        "trust": "selective",
+        "humor": "sarcastic, biting"
       }
     },
     {
-      "time": "Rwanda message received",
+      "time": "Rwanda mission ramp-up",
       "personality": {
-        "curiosity": "peaking",
-        "trust": "suspended",
-        "adrenaline_addiction": "undeniable"
+        "resolve": "gritted, ready",
+        "empathy": "hidden under fatigue",
+        "pragmatism": "maxed"
       }
     }
   ],
-  "bike_name": "Footage Goblin",
+  "bike_name": "GhostRig",
   "stream_tags": [
-    "#DroneDaddy",
-    "#LivestreamOrDie",
-    "#SponsorMePlease"
+    "#OverlayOps",
+    "#QRwitch",
+    "#HardlineLowPower"
   ],
-  "favorite_nutrient_paste_flavor": "Red bean + static electricity",
-  "training_philosophy": "Every crash is good content",
-  "rage_trigger": "Low-res thumbnails"
+  "favorite_nutrient_paste_flavor": "Spicy coffee-bacon hybrid",
+  "training_philosophy": "Never ride what you can remote-control",
+  "rage_trigger": "People who forget chargers or lie about battery levels",
+  "signature_traits": {
+    "habits": [
+      "Covers camera lens with QR sticker before packing",
+      "Checks three feeds even when she says she’s 'off the grid'"
+    ],
+    "speech_patterns": [
+      "Throws numbers into sentences like salt: 'We’ve got 22 minutes and 14 percent battery.'",
+      "Says 'Copy that' even outside comms"
+    ],
+    "physical_tics": [
+      "Blinks in sets of three when thinking",
+      "Mouths the start of lines before saying them out loud"
+    ],
+    "rituals": [
+      "Aligns all power banks before a stream",
+      "Always whispers the first line of a stream intro"
+    ],
+    "objects": [
+      "AR visor with a cracked corner",
+      "A thumbdrive on a wrist coil she fiddles with under stress"
+    ]
+  }
 }

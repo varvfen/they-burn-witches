@@ -51,5 +51,27 @@
   ],
   "favorite_nutrient_paste_flavor": "Wasabi-honey oatmeal",
   "training_philosophy": "Burn the fear, then stretch",
-  "rage_trigger": "Being called 'influencer' by anyone wearing loafers"
+  "rage_trigger": "Being called 'influencer' by anyone wearing loafers",
+  "signature_traits": {
+    "habits": [
+      "Hand-stitches sponsor logos with conductive thread",
+      "Tightens gloves twice before every ride"
+    ],
+    "speech_patterns": [
+      "Bites off sentences with a sarcastic edge",
+      "Often ends dry jokes with 'not that it matters'"
+    ],
+    "physical_tics": [
+      "Always rubs her shoulder after dismounting",
+      "Wipes her nose on the back of her glove"
+    ],
+    "rituals": [
+      "Taps her bike’s frame twice before a climb",
+      "Looks up at the sky after every big crash"
+    ],
+    "objects": [
+      "A patch from her first race kit",
+      "Her crumpled inhaler that she never uses unless someone sees"
+    ]
+  }
 }

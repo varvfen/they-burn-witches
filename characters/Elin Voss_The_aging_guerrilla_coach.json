@@ -9,8 +9,8 @@
     "Coach V",
     "The Wrench Witch"
   ],
-  "personality": "Gruff, pragmatic, maternal when no one's watching. Collects revenge fantasies like others collect medals.",
-  "background": "Former elite racer who burned out the year AI coaching hit mainstream. Now lives off-grid in a retrofitted shipping container with three ex-wifi routers and one emotionally stunted cat. Licenses expired, dignity intact.",
+  "personality": "Gruff, pragmatic, maternal when no one’s watching. Collects revenge fantasies like others collect medals.",
+  "background": "Former elite racer who burned out the year AI coaching hit mainstream. Now lives off-grid in a retrofitted shipping container with three ex-wives' tools.",
   "physical_description": "Lean, wiry, crow’s feet like cracked handlebars. Wears old Svenska Energi jackets patched with conductive thread and smug defiance.",
   "dialogue_style": "Commands disguised as questions. Doesn’t waste words. Occasionally drops brutal deadpan jokes.",
   "relationships": {
@@ -19,7 +19,7 @@
     "Freja Holm": "Still thinks she could’ve gone pro if Elin had started coaching earlier."
   },
   "static_attributes": {
-    "birthdate": "1992-03-14",
+    "birthdate": "1983-03-14",
     "role": "Coach",
     "nationality": "Swedish",
     "augmentation_level": "Minimal – retinal overlay, black-market VPN mod",
@@ -46,9 +46,31 @@
   "bike_name": "Frigg",
   "stream_tags": [
     "#WrenchWitch",
-    "#SweatNotTech",
+    "#SweathoTech",
     "#DeadCoachRiding"
   ],
   "training_philosophy": "Suffer now, post later",
-  "rage_trigger": "People who warm up on electric-assist"
+  "rage_trigger": "People who warm up on electric-assist",
+  "signature_traits": {
+    "habits": [
+      "Double-checks gear teeth by fingertip",
+      "Talks to her bike like it’s a stubborn child"
+    ],
+    "speech_patterns": [
+      "Commands that sound like questions: 'You’re riding that tire pressure?'",
+      "Delivers dry insults without changing tone"
+    ],
+    "physical_tics": [
+      "Stretches her left knee before mounting the bike",
+      "Rubs her temple twice before speaking when annoyed"
+    ],
+    "rituals": [
+      "Taps the seatpost three times before every ride",
+      "Stands facing into the wind before big events"
+    ],
+    "objects": [
+      "Old analog stopwatch on a lanyard",
+      "Toolbelt patched with old team colors"
+    ]
+  }
 }
