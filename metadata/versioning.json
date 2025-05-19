@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "maintainer": "Gunnar Sandstr\u00f6m",
-  "last_updated": "2025-05-17",
+  "last_updated": "2025-05-19",
   "contributors": [
     "Gunnar",
     "ChatGPT"
@@ -9,7 +9,7 @@
   "changelog": [
     {
       "version": "0.1.0",
-      "date": "2025-05-17",
+      "date": "2025-05-19",
       "changes": "Initial repo setup with folders and samples"
     }
   ]
