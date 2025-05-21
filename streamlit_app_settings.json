@@ -1,5 +1,6 @@
 {
   "show_download": true,
   "json_indent": 2,
-  "enable_editing": true
+  "enable_editing": true,
+  "validate_schema": true
 }
