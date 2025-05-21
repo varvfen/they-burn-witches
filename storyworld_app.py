@@ -139,14 +139,21 @@ def display_character_details(char_data):
             if "economic_viability_rating" in attrs:
                 st.write(f"**Economic Rating:** {attrs['economic_viability_rating']}/10")
 
-    # Dynamic attributes (timeline)
+    # Dynamic attributes (timeline) - FIXED to avoid nested expanders
     if "dynamic_attributes" in char_data and char_data["dynamic_attributes"]:
         st.write("### Character Timeline")
+
+        # Using a table instead of expanders
         for i, period in enumerate(char_data["dynamic_attributes"]):
-            with st.expander(f"Time Period: {period.get('time', f'Period {i+1}')}"):
-                if "personality" in period:
-                    for trait, value in period["personality"].items():
-                        st.write(f"**{trait}:** {value}")
+            st.write(f"**Time Period: {period.get('time', f'Period {i+1}')}**")
+
+            if "personality" in period:
+                for trait, value in period["personality"].items():
+                    st.write(f"- {trait}: {value}")
+
+            # Add a divider between time periods
+            if i < len(char_data["dynamic_attributes"]) - 1:
+                st.markdown("---")
 
 def display_location_details(loc_data):
     """Display location data in a structured way"""
@@ -279,4 +286,38 @@ elif section == "Scenes":
 elif section == "Locations":
     st.header("🗺️ Locations")
 
-    # Add a new location o
+    # Add a new location option
+    if st.button("➕ Create New Location"):
+        # Template based on region schema
+        loc_template = {
+            "region_name": "New Region",
+            "tone": "",
+            "tech_level": "",
+            "elevation": "",
+            "infrastructure": [],
+            "problems": [],
+            "youth_trends": [],
+            "notes": ""
+        }
+
+        new_filename = "new_location.json"
+        with open(os.path.join(LOCATION_FOLDER, new_filename), "w", encoding="utf-8") as f:
+            json.dump(loc_template, f, indent=2, ensure_ascii=False)
+        st.success(f"✅ Created {new_filename}")
+
+    locs = load_json_files(LOCATION_FOLDER)
+    for filename, loc_data in locs.items():
+        with st.expander(filename):
+            if "error" in loc_data:
+                st.error(f"❌ {loc_data['error']}")
+                continue
+
+            tab1, tab2 = st.tabs(["Location View", "Raw JSON"])
+
+            with tab1:
+                display_location_details(loc_data)
+
+            with tab2:
+                st.json(loc_data, expanded=False)
+                if settings["enable_editing"]:
+                    display_json_editor(filename, loc_data, LOCATION_FOLDER, "region")
