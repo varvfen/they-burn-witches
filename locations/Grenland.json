@@ -1,0 +1,17 @@
+{
+  "$schema": "../schemas/region-schema.json",
+  "region_name": "Greenland",
+  "tone": "isolationist survival",
+  "tech_level": "low-to-mid with militarized comms",
+  "problems": [
+    "melting ice sheet",
+    "resource conflict",
+    "data center secrecy"
+  ],
+  "youth_trends": [
+    "off-grid hacking",
+    "satellite streaming",
+    "climate nomads"
+  ]
+}
+
