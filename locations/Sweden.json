@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/region-schema.json",
+  "region_name": "Sweden",
+  "tone": "gritty thriller",
+  "tech_level": "mid-high",
+  "elevation": "mixed lowlands with some protected zones",
+  "infrastructure": [
+    "coastal barriers",
+    "bike highways",
+    "decentralized energy nodes",
+    "local meshnets"
+  ],
+  "problems": [
+    "sea level rise",
+    "housing shortage",
+    "government crackdown on unauthorized AI",
+    "political persecution of digital witches"
+  ],
+  "youth_trends": [
+    "cycling crews",
+    "subnet art streaming",
+    "modded survival games that mimic real resource management"
+  ],
+  "notes": "Sweden serves as one of the darker, politically conflicted regions in the PixelVault Earth narrative, where advanced tech coexists with tightening authoritarian control. Stockholm in particular is a node of tension—home to rebel students, underground AI hubs, and subtle climate collapse resistance."
+}

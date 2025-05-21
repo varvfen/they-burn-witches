@@ -1,0 +1,98 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PixelVault Earth World Schema",
+  "description": "Canonical blueprint for all stories set in the 'They Burn Witches' world",
+  "type": "object",
+  "properties": {
+    "world_name": {
+      "type": "string",
+      "default": "PixelVault Earth"
+    },
+    "time_period": {
+      "type": "string",
+      "description": "Applicable narrative timeframe",
+      "default": "2034–2042"
+    },
+    "global": {
+      "type": "object",
+      "properties": {
+        "sea_level_rise": { "type": "string", "default": "0.5m above 2024 levels" },
+        "fusion": { "type": "string", "default": "Rare. Large-scale only." },
+        "AI": { "type": "string", "default": "Advanced but fragmented. Community-run AI nodes common." },
+        "zombies": { "type": "boolean", "default": false },
+        "transport": {
+          "type": "array",
+          "items": { "type": "string" },
+          "default": ["e-bikes", "VTOL taxis", "airships (regional)"]
+        },
+        "internet": {
+          "type": "string",
+          "default": "fragmented. Starlink blocked in EU. PixelVault nodes hidden."
+        }
+      }
+    },
+    "regions": {
+      "type": "object",
+      "properties": {
+        "stockholm": {
+          "type": "object",
+          "properties": {
+            "tone": { "type": "string", "default": "gritty thriller" },
+            "tech_level": { "type": "string", "default": "mid-high" },
+            "problems": {
+              "type": "array",
+              "items": { "type": "string" },
+              "default": ["rising sea", "tech witch trials", "housing"]
+            },
+            "youth_trends": {
+              "type": "array",
+              "items": { "type": "string" },
+              "default": ["cycling crews", "underground AI"]
+            }
+          }
+        },
+        "rwanda": {
+          "type": "object",
+          "properties": {
+            "tone": { "type": "string", "default": "hopepunk" },
+            "tech_level": { "type": "string", "default": "mid with spiritual AI" },
+            "elevation": { "type": "string", "default": "highland safe zone" },
+            "infrastructure": {
+              "type": "array",
+              "items": { "type": "string" },
+              "default": ["solar networks", "mycelium systems"]
+            }
+          }
+        }
+      }
+    },
+    "rules": {
+      "type": "object",
+      "properties": {
+        "no_anti_gravity": { "type": "boolean", "default": true },
+        "AI_can_feel": { "type": "boolean", "default": false },
+        "religion_influence": { "type": "string", "default": "localized resurgence" },
+        "forbidden_genre_tropes": {
+          "type": "array",
+          "items": { "type": "string" },
+          "default": ["zombies", "omnipresent space lasers", "telepathy as common skill"]
+        }
+      }
+    },
+    "narrative_lens": {
+      "type": "object",
+      "properties": {
+        "allowed_tones": {
+          "type": "array",
+          "items": { "type": "string" },
+          "default": ["thriller", "coming-of-age", "hopepunk", "tech-noir", "slice of life"]
+        },
+        "camera_angle_variation": {
+          "type": "string",
+          "default": "Encouraged across subplots. Vary narrative styles while keeping world intact."
+        }
+      }
+    }
+  },
+  "required": ["world_name", "time_period", "global", "regions", "rules", "narrative_lens"]
+}

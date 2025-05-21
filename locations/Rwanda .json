@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/region-schema.json",
+  "region_name": "Rwanda",
+  "tone": "hopepunk",
+  "tech_level": "mid with spiritual AI",
+  "elevation": "highland safe zone",
+  "infrastructure": [
+    "solar networks",
+    "mycelium systems",
+    "airship ports",
+    "off-grid water harvesting"
+  ],
+  "problems": [
+    "resource pressure from refugee influx",
+    "international political manipulation",
+    "climate migration from neighboring regions"
+  ],
+  "youth_trends": [
+    "ritual coding ceremonies",
+    "bamboo robotics",
+    "bike couriers with AI-guided routes",
+    "water-based storytelling VR experiences"
+  ],
+  "notes": "Rwanda represents a rare oasis in the post-collapse world—a high-altitude, self-organized sanctuary where the remnants of ethical AI research, refugee integration, and myth-based design flourish. Despite rising pressures, its core is resilient and adaptive."
+}
