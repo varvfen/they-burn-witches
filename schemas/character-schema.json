@@ -3,8 +3,13 @@
   "title": "Character Schema",
   "description": "Schema for character profiles in the 'They Burn Witches' storyworld",
   "type": "object",
-  "required": ["name", "pronouns", "personality", "background", "physical_description", "dialogue_style", "relationships", "static_attributes"],
+  "required": ["id","name", "pronouns", "personality", "background", "physical_description", "dialogue_style", "relationships", "static_attributes"],
   "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for this character, typically descriptive filename without .json extension",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
     "name": {
       "type": "string",
       "description": "The character's full name"
