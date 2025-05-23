@@ -1,0 +1,19 @@
+{
+  "name": "New Character",
+  "pronouns": "they/them",
+  "groups": [],
+  "other_names": [],
+  "personality": "",
+  "background": "",
+  "physical_description": "",
+  "dialogue_style": "",
+  "relationships": {},
+  "static_attributes": {
+    "birthdate": "",
+    "role": "",
+    "nationality": "",
+    "augmentation_level": "",
+    "economic_viability_rating": 5
+  },
+  "dynamic_attributes": []
+}
