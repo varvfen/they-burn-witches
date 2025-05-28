@@ -7,7 +7,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "description": "Unique identifier for this character, typically descriptive filename without .json extension",
+      "description": "IMMUTABLE unique identifier for this character, used as filename and programmatic reference. Once established, this should NEVER be changed as it breaks external references, file management systems, and data integrity. Use other fields like 'other_names' or 'role' to reflect character evolution.",
       "pattern": "^[A-Za-z0-9_-]+$"
     },
     "name": {
