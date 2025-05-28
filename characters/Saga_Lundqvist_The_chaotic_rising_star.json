@@ -1,5 +1,5 @@
 {
-  "id": "Saga_Lundqvist_The_chaotic_rising_star",
+  "id": "Saga_Lundqvist_The_curious_catalyst",
   "name": "Saga Lundqvist",
   "pronouns": "she/her",
   "groups": [
@@ -8,20 +8,21 @@
   ],
   "other_names": [
     "RogueCam",
-    "The Algorithm's Favorite Mistake"
+    "The Algorithm's Favorite Mistake",
+    "Chat's Conscience"
   ],
-  "personality": "Impulsive, reckless, brilliant in flashes. Half wild-eyed genius, half walking disaster. Addicted to the reaction loop.",
-  "background": "The youngest on the team and its accidental star. Joined as a joke, stayed for the chaos. Streams everything, crashes often.",
-  "physical_description": "Freckled, cracked visor, dyed hair that changes monthly. Always bandaged somewhere. Helmet cam is patched with holographic tape.",
-  "dialogue_style": "Unfiltered. Swears creatively. Half her lines are shouted, the other half whispered to her chat.",
+  "personality": "Impulsive energy channeled into fearless curiosity. Half wild-eyed genius, half walking reality check. Asks the questions everyone else is afraid to voice. Addicted to understanding rather than just reacting.",
+  "background": "The youngest on the team who accidentally became its moral compass. Joined as a joke, stayed for the chaos, evolved into the one who makes everyone think. Streams everything, crashes often, but learns constantly.",
+  "physical_description": "Freckled, cracked visor, dyed hair that changes monthly. Always bandaged somewhere. Helmet cam is patched with holographic tape. Eyes bright with curiosity that can't be dimmed by exhaustion.",
+  "dialogue_style": "Unfiltered but increasingly thoughtful. Questions that sound naive but cut to the heart of complex issues. Half her lines are shouted excitement, the other half whispered observations to her chat.",
   "relationships": {
-    "Elin Voss": "Terrified of disappointing her. Calls her 'Coach Deathwish' when frustrated.",
-    "Freja Holm": "Big sister chaos amplifier. They argue like thunderclouds.",
-    "Mira Nguyen": "Respect with a side of 'please fix my drone again.'"
+    "Elin Voss": "Still terrified of disappointing her, but now challenges her assumptions. Calls her 'Coach Deathwish' when frustrated, 'Coach Reality-Check' when proud.",
+    "Freja Holm": "Big sister dynamic evolved into intellectual sparring partner. They argue like thunderclouds but respect each other's insights.",
+    "Mira Nguyen": "Technical respect mixed with philosophical questioning. 'Can you fix my drone and also explain why we need motors to pedal?'"
   },
   "static_attributes": {
     "birthdate": "2010-07-30",
-    "role": "All-terrain troublemaker",
+    "role": "Curious catalyst and reality translator",
     "nationality": "Swedish",
     "augmentation_level": "Low – scraped-together neural shifter, illegal reflex patch",
     "economic_viability_rating": 4
@@ -42,37 +43,64 @@
         "loyalty": "surging",
         "drive": "untethered and raw"
       }
+    },
+    {
+      "time": "Africa awakening",
+      "personality": {
+        "curiosity": "fearless and cutting",
+        "empathy": "expanding beyond comfort zone",
+        "wisdom": "accidentally profound through honest questions"
+      }
     }
   ],
   "bike_name": "Crashie",
   "stream_tags": [
     "#RogueCam",
     "#NoBrakesJustVibes",
-    "#CrankGoblins"
+    "#CrankGoblins",
+    "#RealTalkWithChat"
   ],
   "favorite_nutrient_paste_flavor": "Cherry-tobacco-popcorn",
-  "training_philosophy": "Ride like you stole it, stream like it’s your confession",
-  "rage_trigger": "Being told to slow down",
+  "training_philosophy": "Ride like you stole it, stream like it's your confession, question like your life depends on the answers",
+  "rage_trigger": "Being told to stop asking 'why' when 'why' is the most important question",
   "signature_traits": {
     "habits": [
       "Kicks her front tire before every ride like a dare",
-      "Talks to her livestream chat mid-sentence"
+      "Talks to her livestream chat mid-sentence",
+      "Asks the question everyone's thinking but afraid to voice"
     ],
     "speech_patterns": [
       "Swears in Swedish-English mashups",
-      "Quotes her subscriber comments like scripture"
+      "Quotes her subscriber comments like scripture",
+      "Starts hard questions with 'Wait, chat wants to know...' as diplomatic cover"
     ],
     "physical_tics": [
       "Cracks her knuckles one at a time while thinking",
-      "Tugs her cracked visor into place without noticing"
+      "Tugs her cracked visor into place without noticing",
+      "Points her camera at things that make her curious"
     ],
     "rituals": [
       "Starts streams with a war cry or animal sound",
-      "Plays her ride playlist backward after a crash"
+      "Plays her ride playlist backward after a crash",
+      "Reads chat questions aloud to process complex thoughts"
     ],
     "objects": [
       "A duct-taped action cam she refuses to upgrade",
-      "Glow-in-the-dark bandana from her first ride"
+      "Glow-in-the-dark bandana from her first ride",
+      "Phone with chat always open for crowdsourced curiosity"
     ]
-  }
+  },
+  "worldview_evolution": {
+    "Stockholm": "Adventure is content, chaos is entertainment",
+    "Burundi_arrival": "Wait, why is everything so expensive if people don't have money?",
+    "Rwanda_crossing": "Are we disaster tourists?",
+    "Lake_Kivu": "What if the most important questions don't have comfortable answers?"
+  },
+  "signature_questions": [
+    "But why do we need motors to pedal?",
+    "So people build beautiful houses from free dirt while we pay millions for ugly concrete apartments?",
+    "Are we disaster tourists?",
+    "Why can't we just ride bikes across borders?",
+    "What if the most beautiful truth is also the most uncomfortable one?"
+  ]
 }

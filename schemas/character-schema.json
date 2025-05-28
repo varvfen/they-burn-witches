@@ -155,6 +155,27 @@
         }
       },
       "description": "Collection of distinctive traits that make the character unique"
+    },
+    "worldview_evolution": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "description": "Character's worldview or understanding at this story phase"
+      },
+      "description": "How the character's understanding of the world changes across story phases"
+    },
+    "signature_questions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Key questions the character asks that reveal their nature and drive plot/theme development"
+    },
+    "thematic_function": {
+      "type": "string",
+      "description": "What role this character plays in the story's larger themes and message"
+    },
+    "character_arc_summary": {
+      "type": "string",
+      "description": "Brief description of how this character changes throughout the story"
     }
   }
 }
